@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "271769954293",
+    "firebase_url": "https://hostelguide-152da.firebaseio.com",
+    "project_id": "hostelguide-152da",
+    "storage_bucket": "hostelguide-152da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271769954293:android:127dea21330e51b0",
+        "android_client_info": {
+          "package_name": "com.example.padminich.hostelguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271769954293-hbqbrk32b67pcblj2uc78ksvv9r0kqhr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.padminich.hostelguide",
+            "certificate_hash": "7e275d11d89ba659a36426e4c61d28e8a092905c"
+          }
+        },
+        {
+          "client_id": "271769954293-g0d1vgvgtq6lj2udgn5fc70t8enmauls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARGk47wXbXgKCboJLEbgSqwbRBEcupL2g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271769954293-g0d1vgvgtq6lj2udgn5fc70t8enmauls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
